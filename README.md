@@ -1,4 +1,4 @@
-# Clear-Sky-Photography
+# Front-end Web Design
 
 Created a website showcasing work done as a photographer, leaving open the possibility that the website could be further developed to promote this passion and start a side business.
 
