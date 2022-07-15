@@ -4,6 +4,14 @@ Created a website showcasing work done as a photographer, leaving open the possi
 
 https://www.public.asu.edu/~mpinker1/project/index.html
 
+# Wire Frames
+
+Below is the mockup of the website in wire frames that I created to then submit for approval.
+
 ![alt text](https://github.com/wolf266/Front-End-Web-Design/blob/main/Images/Presentation1.jpg)
+
+# Mockup of website
+
+Once the wire frames were approved, I was allowed to move forward with creating a mockup of the website and present that for approval.
 
 ![alt text](https://github.com/wolf266/Front-End-Web-Design/blob/main/Images/collage.jpg)
